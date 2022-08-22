@@ -1,0 +1,24 @@
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Domain\bin\Debug\net5.0\ProfilesWpf.Domain.deps.json
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Domain\bin\Debug\net5.0\ProfilesWpf.Domain.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Domain\bin\Debug\net5.0\ProfilesWpf.Domain.pdb
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Domain\obj\Debug\net5.0\ProfilesWpf.Domain.csproj.AssemblyReference.cache
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Domain\obj\Debug\net5.0\ProfilesWpf.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Domain\obj\Debug\net5.0\ProfilesWpf.Domain.AssemblyInfoInputs.cache
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Domain\obj\Debug\net5.0\ProfilesWpf.Domain.AssemblyInfo.cs
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Domain\obj\Debug\net5.0\ProfilesWpf.Domain.csproj.CoreCompileInputs.cache
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Domain\obj\Debug\net5.0\ProfilesWpf.Domain.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Domain\obj\Debug\net5.0\refint\ProfilesWpf.Domain.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Domain\obj\Debug\net5.0\ProfilesWpf.Domain.pdb
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Domain\obj\Debug\net5.0\ref\ProfilesWpf.Domain.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Domain\bin\Debug\net5.0\ProfilesWpf.Domain.deps.json
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Domain\bin\Debug\net5.0\ProfilesWpf.Domain.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Domain\bin\Debug\net5.0\ProfilesWpf.Domain.pdb
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Domain\obj\Debug\net5.0\ProfilesWpf.Domain.csproj.AssemblyReference.cache
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Domain\obj\Debug\net5.0\ProfilesWpf.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Domain\obj\Debug\net5.0\ProfilesWpf.Domain.AssemblyInfoInputs.cache
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Domain\obj\Debug\net5.0\ProfilesWpf.Domain.AssemblyInfo.cs
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Domain\obj\Debug\net5.0\ProfilesWpf.Domain.csproj.CoreCompileInputs.cache
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Domain\obj\Debug\net5.0\ProfilesWpf.Domain.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Domain\obj\Debug\net5.0\refint\ProfilesWpf.Domain.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Domain\obj\Debug\net5.0\ProfilesWpf.Domain.pdb
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Domain\obj\Debug\net5.0\ref\ProfilesWpf.Domain.dll

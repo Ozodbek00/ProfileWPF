@@ -1,0 +1,118 @@
+C:\Users\muham\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\ProfilesWpf.csproj.AssemblyReference.cache
+C:\Users\muham\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\muham\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\muham\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\ProfilesWpf_MarkupCompile.cache
+C:\Users\muham\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\ProfilesWpf_MarkupCompile.lref
+C:\Users\muham\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\UI\Pages\AddPage.g.cs
+C:\Users\muham\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\UI\Pages\DeletePage.g.cs
+C:\Users\muham\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\UI\Pages\UpdatePage.g.cs
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\ProfilesWpf.exe
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\ProfilesWpf.deps.json
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\ProfilesWpf.runtimeconfig.json
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\ProfilesWpf.runtimeconfig.dev.json
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\ProfilesWpf.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\ProfilesWpf.pdb
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\App.baml
+C:\Users\muham\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\muham\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\UI\Pages\AddPage.baml
+C:\Users\muham\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\UI\Pages\DeletePage.baml
+C:\Users\muham\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\UI\Pages\UpdatePage.baml
+C:\Users\muham\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\ProfilesWpf.g.resources
+C:\Users\muham\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\ProfilesWpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\ProfilesWpf.AssemblyInfoInputs.cache
+C:\Users\muham\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\ProfilesWpf.AssemblyInfo.cs
+C:\Users\muham\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\ProfilesWpf.csproj.CoreCompileInputs.cache
+C:\Users\muham\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\ProfilesWpf.csproj.CopyComplete
+C:\Users\muham\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\ProfilesWpf.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\refint\ProfilesWpf.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\ProfilesWpf.pdb
+C:\Users\muham\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\ProfilesWpf.genruntimeconfig.cache
+C:\Users\muham\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\ref\ProfilesWpf.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\ProfilesWpf.Data.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\ProfilesWpf.Domain.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\ProfilesWpf.Data.pdb
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\ProfilesWpf.Domain.pdb
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Mapster.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\ProfilesWpf.Service.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\ProfilesWpf.Service.pdb
+C:\Users\muham\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\UI\Controls\ProfileShortInfo.g.cs
+C:\Users\muham\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\UI\Controls\ProfileShortInfo.baml
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\ProfilesWpf.exe
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\ProfilesWpf.deps.json
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\ProfilesWpf.runtimeconfig.json
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\ProfilesWpf.runtimeconfig.dev.json
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\ProfilesWpf.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\ProfilesWpf.pdb
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Mapster.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\ProfilesWpf.Data.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\ProfilesWpf.Domain.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\ProfilesWpf.Service.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\ProfilesWpf.Data.pdb
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\ProfilesWpf.Service.pdb
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\bin\Debug\net5.0-windows\ProfilesWpf.Domain.pdb
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\ProfilesWpf.csproj.AssemblyReference.cache
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\UI\Controls\ProfileShortInfo.g.cs
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\UI\Pages\AddPage.g.cs
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\UI\Pages\DeletePage.g.cs
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\UI\Pages\UpdatePage.g.cs
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\ProfilesWpf_MarkupCompile.cache
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\ProfilesWpf_MarkupCompile.lref
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\App.baml
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\UI\Controls\ProfileShortInfo.baml
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\UI\Pages\AddPage.baml
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\UI\Pages\DeletePage.baml
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\UI\Pages\UpdatePage.baml
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\ProfilesWpf.g.resources
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\ProfilesWpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\ProfilesWpf.AssemblyInfoInputs.cache
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\ProfilesWpf.AssemblyInfo.cs
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\ProfilesWpf.csproj.CoreCompileInputs.cache
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\ProfilesWpf.csproj.CopyComplete
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\ProfilesWpf.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\refint\ProfilesWpf.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\ProfilesWpf.pdb
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\ProfilesWpf.genruntimeconfig.cache
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf\obj\Debug\net5.0-windows\ref\ProfilesWpf.dll

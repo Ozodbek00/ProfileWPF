@@ -1,0 +1,36 @@
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Data\bin\Debug\net5.0\ProfilesWpf.Data.deps.json
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Data\bin\Debug\net5.0\ProfilesWpf.Data.runtimeconfig.json
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Data\bin\Debug\net5.0\ProfilesWpf.Data.runtimeconfig.dev.json
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Data\bin\Debug\net5.0\ProfilesWpf.Data.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Data\bin\Debug\net5.0\ProfilesWpf.Data.pdb
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Data\bin\Debug\net5.0\ProfilesWpf.Domain.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Data\bin\Debug\net5.0\ProfilesWpf.Domain.pdb
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Data\obj\Debug\net5.0\ProfilesWpf.Data.csproj.AssemblyReference.cache
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Data\obj\Debug\net5.0\ProfilesWpf.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Data\obj\Debug\net5.0\ProfilesWpf.Data.AssemblyInfoInputs.cache
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Data\obj\Debug\net5.0\ProfilesWpf.Data.AssemblyInfo.cs
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Data\obj\Debug\net5.0\ProfilesWpf.Data.csproj.CoreCompileInputs.cache
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Data\obj\Debug\net5.0\ProfilesWpf.Data.csproj.CopyComplete
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Data\obj\Debug\net5.0\ProfilesWpf.Data.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Data\obj\Debug\net5.0\refint\ProfilesWpf.Data.dll
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Data\obj\Debug\net5.0\ProfilesWpf.Data.pdb
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Data\obj\Debug\net5.0\ProfilesWpf.Data.genruntimeconfig.cache
+C:\Users\muham\ProfilesWpf\ProfilesWpf.Data\obj\Debug\net5.0\ref\ProfilesWpf.Data.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Data\bin\Debug\net5.0\ProfilesWpf.Data.deps.json
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Data\bin\Debug\net5.0\ProfilesWpf.Data.runtimeconfig.json
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Data\bin\Debug\net5.0\ProfilesWpf.Data.runtimeconfig.dev.json
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Data\bin\Debug\net5.0\ProfilesWpf.Data.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Data\bin\Debug\net5.0\ProfilesWpf.Data.pdb
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Data\bin\Debug\net5.0\ProfilesWpf.Domain.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Data\bin\Debug\net5.0\ProfilesWpf.Domain.pdb
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Data\obj\Debug\net5.0\ProfilesWpf.Data.csproj.AssemblyReference.cache
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Data\obj\Debug\net5.0\ProfilesWpf.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Data\obj\Debug\net5.0\ProfilesWpf.Data.AssemblyInfoInputs.cache
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Data\obj\Debug\net5.0\ProfilesWpf.Data.AssemblyInfo.cs
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Data\obj\Debug\net5.0\ProfilesWpf.Data.csproj.CoreCompileInputs.cache
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Data\obj\Debug\net5.0\ProfilesWpf.Data.csproj.CopyComplete
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Data\obj\Debug\net5.0\ProfilesWpf.Data.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Data\obj\Debug\net5.0\refint\ProfilesWpf.Data.dll
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Data\obj\Debug\net5.0\ProfilesWpf.Data.pdb
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Data\obj\Debug\net5.0\ProfilesWpf.Data.genruntimeconfig.cache
+C:\Users\O'tkirbek\Downloads\Telegram Desktop\ProfilesWpf\ProfilesWpf.Data\obj\Debug\net5.0\ref\ProfilesWpf.Data.dll

@@ -1,0 +1,114 @@
+﻿<Page
+    x:Class="ProfilesWpf.UI.Pages.UpdatePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:ProfilesWpf.UI.Pages"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes"
+    Title="UpdatePage"
+    Width="400"
+    Height="300"
+    mc:Ignorable="d">
+
+
+    <Grid>
+        <StackPanel VerticalAlignment="Bottom" Orientation="Vertical">
+            <DockPanel HorizontalAlignment="Center">
+                <StackPanel>
+                    <Ellipse Height="60" Width="60">
+                        <Ellipse.Fill>
+                            <ImageBrush x:Name="PassportImg" />
+                        </Ellipse.Fill>
+                    </Ellipse>
+                    <Button x:Name="PassportBtn" Click="PassportBtn_Click">
+                        <TextBlock FontSize="9" Text="Choose Image" />
+                    </Button>
+                </StackPanel>
+                <StackPanel>
+                    <Ellipse Height="60" Width="60">
+                        <Ellipse.Fill>
+                            <ImageBrush x:Name="PortraitImg" />
+                        </Ellipse.Fill>
+                    </Ellipse>
+                    <Button x:Name="PortraitBtn" Click="PortraitBtn_Click">
+                        <TextBlock FontSize="9" Text="Choose Image" />
+                    </Button>
+                </StackPanel>
+            </DockPanel>
+            <Border
+                Width="200"
+                Height="30"
+                Margin="10,0,10,10"
+                Background="Gray"
+                CornerRadius="10">
+                <TextBox
+                    Name="SaveIdTextInp"
+                    VerticalAlignment="Center"
+                    md:HintAssist.Hint="Id"
+                    md:TextFieldAssist.UnderlineBrush="Transparent" />
+            </Border>
+
+            <Border
+                Width="200"
+                Height="30"
+                Margin="10,0,10,10"
+                Background="Gray"
+                CornerRadius="10">
+                <TextBox
+                    Name="SaveFirstNameInp"
+                    VerticalAlignment="Center"
+                    md:HintAssist.Hint="First Name"
+                    md:TextFieldAssist.UnderlineBrush="Transparent" />
+            </Border>
+
+            <Border
+                Width="200"
+                Height="30"
+                Margin="10,0,10,10"
+                Background="Gray"
+                CornerRadius="10">
+                <TextBox
+                    Name="SaveLastNameInp"
+                    VerticalAlignment="Center"
+                    md:HintAssist.Hint="Last Name"
+                    md:TextFieldAssist.UnderlineBrush="Transparent" />
+            </Border>
+
+            <Border
+                Width="200"
+                Height="30"
+                Margin="10,0,10,10"
+                Background="Gray"
+                CornerRadius="10">
+                <TextBox
+                    Name="SaveFacultyInp"
+                    VerticalAlignment="Center"
+                    md:HintAssist.Hint="Faculty"
+                    md:TextFieldAssist.UnderlineBrush="Transparent" />
+            </Border>
+
+            <Border
+                Width="100"
+                Height="40"
+                Margin="10,0,10,10"
+                Background="RoyalBlue"
+                CornerRadius="10">
+                <Button
+                    x:Name="EditBtn"
+                    Width="100"
+                    Height="40"
+                    Background="RoyalBlue"
+                    Click="EditBtn_Click">
+                    <TextBlock
+                        Name="SaveBtn"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Center"
+                        FontSize="15"
+                        Text="Save" />
+                </Button>
+            </Border>
+
+        </StackPanel>
+    </Grid>
+</Page>
